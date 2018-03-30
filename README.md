@@ -1,2 +1,2 @@
-# aquarelle
-Aquarelle theme for Boostrap 4
+# Aquarelle Theme
+For Boostrap 4
